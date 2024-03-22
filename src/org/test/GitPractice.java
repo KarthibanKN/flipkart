@@ -7,6 +7,7 @@ public class GitPractice {
 	
 	private void merge() {
 		System.out.println("It is the method to check Branch and Merge");
+		System.out.println("Jenkins testing with github");
 	}
 	private void merge2() {
 		System.out.println("New method for check conflict");
